@@ -34,9 +34,7 @@ I've recently been exploring and building tools around LLMs, semantic search, an
 ---
 
 ## 🌐 Website & Links
-
 - 🌍 Portfolio: [gregorkracan.dev](https://gregorkracan.dev)
-- 🧾 Projects: [gregorkracan.dev#projects](https://gregorkracan.dev#projects)
 ---
 
 Thanks for visiting — always open to collaboration, feedback, or a quick chat.
